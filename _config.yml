@@ -1,7 +1,7 @@
 name: Testsite12
 favicon: null
 layout_spectrum: 0.7744096706155688
-typography_spectrum: 0.7350552773568779
+typography_spectrum: 0.89595
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7185461914632469
+  brandStrength: 0.625
   lightness: 0.020171013893559575
   saturation: 0.5266657990869135
   rhythmicContrast: 0.6108976849354804
